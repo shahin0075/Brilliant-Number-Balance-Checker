@@ -1,4 +1,4 @@
-# Brilliant-Number-Balance-Checker
+
 # 📲 Brilliant Number & Balance Checker  
 
 A simple web-based tool to check if a mobile number is **real & brilliant** and to fetch balance details using an API. This project is developed using **HTML, CSS, JavaScript, and Bootstrap** for a modern and user-friendly interface.  
